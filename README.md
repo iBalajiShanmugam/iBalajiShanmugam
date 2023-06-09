@@ -7,6 +7,8 @@
 
 💼 Skills: Python, SQL, Power BI, PySpark
 
+🎓 Microsoft Certified: Power BI Data Analyst Associate
+
 💞️ I’m looking to collaborate on Data Engineering projects.
 
 📫 How to reach me:
