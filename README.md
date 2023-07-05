@@ -9,6 +9,8 @@
 
 🎓 Microsoft Certified: Power BI Data Analyst Associate
 
+🎓 Databricks Certified Associate Developer for Apache Spark
+
 💞️ I’m looking to collaborate on Data Engineering projects.
 
 📫 How to reach me:
